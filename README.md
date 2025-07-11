@@ -16,7 +16,10 @@ An Excel file containing regional sales data is included and serves as the found
 📁 Files Included
 
 Detailed Reports – Summary of findings, business recommendations, and insights.
+
 Code Files – Python scripts used for data cleaning, analysis, and visualization.
+
 Documentation – Explanation of analytical methodologies and approach.
+
 Dashboards & Visualizations – Interactive charts and visuals created using tools like Power BI or Tableau.
 
